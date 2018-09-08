@@ -1,0 +1,6 @@
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Papa_Mama\Papa_Mama\bin\Debug\Papa_Mama.exe.config
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Papa_Mama\Papa_Mama\bin\Debug\Papa_Mama.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Papa_Mama\Papa_Mama\bin\Debug\Papa_Mama.pdb
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Papa_Mama\Papa_Mama\obj\Debug\Papa_Mama.csprojResolveAssemblyReference.cache
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Papa_Mama\Papa_Mama\obj\Debug\Papa_Mama.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Papa_Mama\Papa_Mama\obj\Debug\Papa_Mama.pdb
