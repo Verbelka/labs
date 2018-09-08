@@ -1,0 +1,9 @@
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\калькулятор\калькулятор\bin\Debug\калькулятор.exe.config
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\калькулятор\калькулятор\bin\Debug\калькулятор.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\калькулятор\калькулятор\bin\Debug\калькулятор.pdb
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\калькулятор\калькулятор\obj\Debug\калькулятор.csprojResolveAssemblyReference.cache
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\калькулятор\калькулятор\obj\Debug\калькулятор.Form1.resources
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\калькулятор\калькулятор\obj\Debug\калькулятор.Properties.Resources.resources
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.GenerateResource.Cache
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\калькулятор\калькулятор\obj\Debug\калькулятор.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\калькулятор\калькулятор\obj\Debug\калькулятор.pdb
