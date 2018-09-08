@@ -1,0 +1,9 @@
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Eventss\Eventss\bin\Debug\Eventss.exe.config
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Eventss\Eventss\bin\Debug\Eventss.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Eventss\Eventss\bin\Debug\Eventss.pdb
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Eventss\Eventss\obj\Debug\Eventss.csprojResolveAssemblyReference.cache
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Eventss\Eventss\obj\Debug\Eventss.Form1.resources
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Eventss\Eventss\obj\Debug\Eventss.Properties.Resources.resources
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Eventss\Eventss\obj\Debug\Eventss.csproj.GenerateResource.Cache
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Eventss\Eventss\obj\Debug\Eventss.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Eventss\Eventss\obj\Debug\Eventss.pdb
