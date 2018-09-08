@@ -1,0 +1,6 @@
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\RegExp\RegExp\bin\Debug\RegExp.exe.config
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\RegExp\RegExp\bin\Debug\RegExp.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\RegExp\RegExp\bin\Debug\RegExp.pdb
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\RegExp\RegExp\obj\Debug\RegExp.csprojResolveAssemblyReference.cache
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\RegExp\RegExp\obj\Debug\RegExp.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\RegExp\RegExp\obj\Debug\RegExp.pdb
