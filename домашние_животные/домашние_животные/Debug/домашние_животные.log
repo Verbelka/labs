@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\veronika\desktop\универ\программирование\лабы_2\домашние_животные\домашние_животные\source.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\veronika\desktop\универ\программирование\лабы_2\домашние_животные\домашние_животные\source.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\veronika\desktop\универ\программирование\лабы_2\домашние_животные\домашние_животные\source.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\veronika\desktop\универ\программирование\лабы_2\домашние_животные\домашние_животные\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\veronika\desktop\универ\программирование\лабы_2\домашние_животные\домашние_животные\source.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\veronika\desktop\универ\программирование\лабы_2\домашние_животные\домашние_животные\source.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\veronika\desktop\универ\программирование\лабы_2\домашние_животные\домашние_животные\source.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\veronika\desktop\универ\программирование\лабы_2\домашние_животные\домашние_животные\source.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\veronika\desktop\универ\программирование\лабы_2\домашние_животные\домашние_животные\source.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  домашние_животные.vcxproj -> C:\Users\Veronika\Desktop\универ\программирование\лабы_2\домашние_животные\Debug\домашние_животные.exe
+  домашние_животные.vcxproj -> C:\Users\Veronika\Desktop\универ\программирование\лабы_2\домашние_животные\Debug\домашние_животные.pdb (Full PDB)
