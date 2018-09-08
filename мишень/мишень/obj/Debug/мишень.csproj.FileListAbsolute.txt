@@ -1,0 +1,9 @@
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\мишень\мишень\bin\Debug\мишень.exe.config
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\мишень\мишень\bin\Debug\мишень.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\мишень\мишень\bin\Debug\мишень.pdb
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\мишень\мишень\obj\Debug\мишень.csprojResolveAssemblyReference.cache
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\мишень\мишень\obj\Debug\мишень.Form1.resources
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\мишень\мишень\obj\Debug\мишень.Properties.Resources.resources
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\мишень\мишень\obj\Debug\мишень.csproj.GenerateResource.Cache
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\мишень\мишень\obj\Debug\мишень.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\мишень\мишень\obj\Debug\мишень.pdb

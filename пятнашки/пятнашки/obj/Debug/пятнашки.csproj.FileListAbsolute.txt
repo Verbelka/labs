@@ -1,0 +1,9 @@
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\пятнашки\пятнашки\bin\Debug\пятнашки.exe.config
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\пятнашки\пятнашки\bin\Debug\пятнашки.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\пятнашки\пятнашки\bin\Debug\пятнашки.pdb
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\пятнашки\пятнашки\obj\Debug\пятнашки.csprojResolveAssemblyReference.cache
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\пятнашки\пятнашки\obj\Debug\пятнашки.Game.resources
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\пятнашки\пятнашки\obj\Debug\пятнашки.Properties.Resources.resources
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\пятнашки\пятнашки\obj\Debug\пятнашки.csproj.GenerateResource.Cache
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\пятнашки\пятнашки\obj\Debug\пятнашки.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\пятнашки\пятнашки\obj\Debug\пятнашки.pdb
