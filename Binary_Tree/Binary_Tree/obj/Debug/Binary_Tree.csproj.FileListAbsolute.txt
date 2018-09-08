@@ -1,0 +1,6 @@
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Binary_Tree\Binary_Tree\bin\Debug\Binary_Tree.exe.config
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Binary_Tree\Binary_Tree\bin\Debug\Binary_Tree.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Binary_Tree\Binary_Tree\bin\Debug\Binary_Tree.pdb
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Binary_Tree\Binary_Tree\obj\Debug\Binary_Tree.csprojResolveAssemblyReference.cache
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Binary_Tree\Binary_Tree\obj\Debug\Binary_Tree.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\Binary_Tree\Binary_Tree\obj\Debug\Binary_Tree.pdb
