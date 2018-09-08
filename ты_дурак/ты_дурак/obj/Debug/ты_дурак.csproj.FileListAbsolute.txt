@@ -1,0 +1,9 @@
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\ты_дурак\ты_дурак\bin\Debug\ты_дурак.exe.config
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\ты_дурак\ты_дурак\bin\Debug\ты_дурак.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\ты_дурак\ты_дурак\bin\Debug\ты_дурак.pdb
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\ты_дурак\ты_дурак\obj\Debug\ты_дурак.csprojResolveAssemblyReference.cache
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\ты_дурак\ты_дурак\obj\Debug\ты_дурак.Form1.resources
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\ты_дурак\ты_дурак\obj\Debug\ты_дурак.Properties.Resources.resources
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\ты_дурак\ты_дурак\obj\Debug\ты_дурак.csproj.GenerateResource.Cache
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\ты_дурак\ты_дурак\obj\Debug\ты_дурак.exe
+C:\Users\Veronika\Desktop\универ\программирование\лабы_2\ты_дурак\ты_дурак\obj\Debug\ты_дурак.pdb
