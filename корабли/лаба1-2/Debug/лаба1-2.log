@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\veronika\desktop\универ\программирование\лабы_2\корабли\лаба1-2\source.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\veronika\desktop\универ\программирование\лабы_2\корабли\лаба1-2\source.cpp(74): warning C4018: '<': signed/unsigned mismatch
+  лаба1-2.vcxproj -> C:\Users\Veronika\Desktop\универ\программирование\лабы_2\корабли\Debug\лаба1-2.exe
+  лаба1-2.vcxproj -> C:\Users\Veronika\Desktop\универ\программирование\лабы_2\корабли\Debug\лаба1-2.pdb (Partial PDB)
